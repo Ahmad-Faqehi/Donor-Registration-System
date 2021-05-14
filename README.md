@@ -13,7 +13,6 @@
   <h3 align="center">Donor Registration System  `Old Version` </h3>
 
   <p align="center">
-    Is a small system for Donor registration get name and amount of the donor, has a dashboard showing how many people joined and how much money collect.
     <br />
     <a href="https://projects.iahmad.info/DRS">View Demo</a>
   </p>

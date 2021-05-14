@@ -32,9 +32,6 @@
   </ol>
 </details>
 
-
-
-**The aim of this project is a facilitate the access of students' excuses submitted to the lecturer in an electronic, easy, fast and uninterrupted way.**
 <Br>
 <!-- Build With -->
 ## Build With

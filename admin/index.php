@@ -1,4 +1,4 @@
-<?php include "includes/init5.php"; ?>
+<?php include "includes/init.php"; ?>
 <?php 
 
 if(!$session->is_signed_in()){redirect("login.php"); die("fuck you");}

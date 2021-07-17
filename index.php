@@ -1,5 +1,5 @@
 <?php 
-include "admin/includes/init5.php";
+include "admin/includes/init.php";
 $msg = "";
 if(isset($_POST['create'])){
 
